@@ -1,0 +1,2 @@
+# FastAPI_imagens_aws
+FastAPI_imagens_aws
